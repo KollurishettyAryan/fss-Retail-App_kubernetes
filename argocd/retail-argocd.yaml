@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/KollurishettyAryan/fss-Retail-App_kubernetes
-    path: retail-app
+    path: charts/retail-app
     targetRevision: master
     helm:
       valueFiles:
