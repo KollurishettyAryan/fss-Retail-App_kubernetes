@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/KollurishettyAryan/fss-Retail-App_kubernetes.git
     path: retail-app
-    targetRevision: main
+    targetRevision: master
     helm:
       valueFiles:
         - values.yaml
