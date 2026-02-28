@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://KollurishettyAryan.github.io/fss-Retail-App_kubernetes
+    repoURL: https://github.com/KollurishettyAryan/fss-Retail-App_kubernetes
     path: retail-app
     targetRevision: master
     helm:
