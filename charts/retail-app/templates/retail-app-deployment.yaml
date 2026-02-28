@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: {{ .Release.Name }}-retail-app
-  namespace: {{ .Values.namespace }}
 spec:
   replicas: {{ .Values.retailApp.replicas }}
   selector:

@@ -1,4 +1,4 @@
-namespace: retail-ns
+
 
 configMap:
   name: retail-app-config
